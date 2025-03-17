@@ -1,0 +1,38 @@
+.body{
+    border: 2px solid black;
+}
+
+.container{
+    text-align: justify;
+    width: 800px;
+    
+}
+
+.navbar{
+
+   border-bottom: 4px solid purple;
+   width: 800px;
+  
+}
+
+.top-left{
+    text-align: left;
+    margin-top: 10px;
+}
+
+.table{
+    width:100%;
+    justify-content: center;
+    
+}
+
+.red{
+    margin-left: 490px;
+    text-align: center;
+    
+}
+
+.footer{
+    text-align: center;
+    font-size: 10px;
+}
