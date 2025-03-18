@@ -70,7 +70,7 @@ $totalRows_rssched = mysql_num_rows($rssched);
                         	<td>
                                       
                                <div style="height: 700px; overflow-y: scroll;">
-                               <?php echo nl2br( file_get_contents('../changelog.txt') );?>
+                               <?php echo nl2br( file_get_contents('../README.md') );?>
                                </div>
                                
                             </td>
