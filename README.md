@@ -1,4 +1,4 @@
-# LAND SURVEY RECORDS
+# LAND RECORDS
 This is a working example of a basic archiving system developed using PHP/MySQL. Please note that this system is no longer actively maintained. It is provided as-is, without any warranty. Thank you
 
 # Changelog
@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
 - more bug fixes
 - new notification bell icon [by malcho canonio]
 
-## LAND SURVEY 0.01.1 - 2022-07-20
+## PERMITS 0.01.1 - 2022-07-20
 - initial conception of the system
 - data gathering and coordination with smd
 - designing of data flow based on requiments of lpdd
